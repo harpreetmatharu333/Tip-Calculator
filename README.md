@@ -1,4 +1,10 @@
 # Tip-Calculator
+
 Steps to run the app:
-Download the zip file.
-Extract it and run index.html
+
+1) Download the zip file.
+
+2) Extract it and run index.html.
+
+
+It also contains a doc file of test cases.
